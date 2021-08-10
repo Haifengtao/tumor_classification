@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="93d1c2c7-bd65-464b-9b3e-ab3d6fc78c48" name="10.190.60.11">
+        <fileTransfer rootFolder="/home1/zhaobt/PycharmProjects" accessType="SFTP" host="10.190.65.11" port="22" sshConfigId="6260ce57-884a-4c4d-80f7-1a070f5c7e99" sshConfig="zhaobt@10.190.65.11:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
